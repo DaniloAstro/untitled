@@ -55,6 +55,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;history&quot;: [
@@ -91,7 +92,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main3",
+    "git-widget-placeholder": "main3-lab2",
     "last_opened_file_path": "C:/Users/Astro/OneDrive/Рабочий стол/77/untitled",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -172,7 +173,7 @@
       <workItem from="1700592984038" duration="5839000" />
       <workItem from="1700600020268" duration="285000" />
       <workItem from="1700600323245" duration="1039000" />
-      <workItem from="1700601375295" duration="1281000" />
+      <workItem from="1700601375295" duration="653000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -382,55 +383,7 @@
       <option name="project" value="LOCAL" />
       <updated>1700601853245</updated>
     </task>
-    <task id="LOCAL-00027" summary="Merge remote-tracking branch 'origin/main3-lab3' into main3-lab3">
-      <option name="closed" value="true" />
-      <created>1700602121863</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1700602121863</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Merge remote-tracking branch 'origin/main3-lab3' into main3-lab3">
-      <option name="closed" value="true" />
-      <created>1700602252641</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1700602252641</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Merge remote-tracking branch 'origin/main3-lab3' into main3-lab3">
-      <option name="closed" value="true" />
-      <created>1700602331096</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1700602331096</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Merge remote-tracking branch 'origin/main3-lab3' into main3-lab3">
-      <option name="closed" value="true" />
-      <created>1700602335320</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1700602335320</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Merge remote-tracking branch 'origin/main3-lab3' into main3-lab3">
-      <option name="closed" value="true" />
-      <created>1700602429149</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1700602429149</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Merge remote-tracking branch 'origin/main3-lab3' into main3-lab3">
-      <option name="closed" value="true" />
-      <created>1700602654636</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1700602654636</updated>
-    </task>
-    <option name="localTasksCounter" value="33" />
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
