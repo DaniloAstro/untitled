@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8c34d5b-6066-4d7a-82cc-a33451275c8b" name="Changes" comment="first commit" />
+    <list default="true" id="b8c34d5b-6066-4d7a-82cc-a33451275c8b" name="Changes" comment="Merge remote-tracking branch 'origin/main3-lab3' into main3-lab3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -150,7 +156,7 @@
       <workItem from="1700580540178" duration="3444000" />
       <workItem from="1700592984038" duration="5839000" />
       <workItem from="1700600020268" duration="285000" />
-      <workItem from="1700600323245" duration="617000" />
+      <workItem from="1700600323245" duration="944000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -280,7 +286,39 @@
       <option name="project" value="LOCAL" />
       <updated>1700600746907</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1700600947626</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1700600947626</updated>
+    </task>
+    <task id="LOCAL-00018" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1700601005238</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1700601005238</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Merge remote-tracking branch 'origin/main3-lab3' into main3-lab3">
+      <option name="closed" value="true" />
+      <created>1700601062341</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1700601062341</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Merge remote-tracking branch 'origin/main3-lab3' into main3-lab3">
+      <option name="closed" value="true" />
+      <created>1700601068960</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1700601068960</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,6 +338,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merge remote-tracking branch 'origin/lab2' into lab2" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main3-lab3' into main3-lab3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main3-lab3' into main3-lab3" />
   </component>
 </project>
