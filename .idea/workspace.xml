@@ -62,16 +62,15 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;history&quot;: [
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
     {
-      &quot;assignee&quot;: &quot;DaniloAstro&quot;
+      "assignee": "DaniloAstro"
     }
   ],
-  &quot;lastFilter&quot;: {
-    &quot;assignee&quot;: &quot;DaniloAstro&quot;
+  "lastFilter": {
   }
-}</component>
+}]]></component>
   <component name="GithubProjectSettings">
     <option name="branchProtectionPatterns">
       <list>
