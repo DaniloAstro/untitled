@@ -113,7 +113,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MaIn2">
+  <component name="RunManager">
     <configuration name="MaIn2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.MaIn2" />
       <module name="untitled.main" />
