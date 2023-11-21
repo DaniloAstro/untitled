@@ -60,9 +60,17 @@
   "history": [
     {
       "assignee": "DaniloAstro"
+    },
+    {
+      "state": "CLOSED",
+      "author": "DaniloAstro"
+    },
+    {
+      "state": "OPEN"
     }
   ],
   "lastFilter": {
+    "state": "OPEN"
   }
 }]]></component>
   <component name="GithubProjectSettings">
