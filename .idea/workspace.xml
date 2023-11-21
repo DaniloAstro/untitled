@@ -49,12 +49,6 @@
       </branch-storage>
     </excluded-from-favorite>
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="lab2" />
@@ -187,7 +181,7 @@
       <workItem from="1700601375295" duration="653000" />
       <workItem from="1700603165378" duration="394000" />
       <workItem from="1700604595894" duration="856000" />
-      <workItem from="1700605476473" duration="429000" />
+      <workItem from="1700605476473" duration="755000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -501,7 +495,31 @@
       <option name="project" value="LOCAL" />
       <updated>1700605622359</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Merge remote-tracking branch 'origin/lab2' into lab2">
+      <option name="closed" value="true" />
+      <created>1700605910872</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1700605910872</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Merge remote-tracking branch 'origin/lab2' into lab2">
+      <option name="closed" value="true" />
+      <created>1700606052199</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1700606052199</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Merge remote-tracking branch 'origin/lab2' into lab2">
+      <option name="closed" value="true" />
+      <created>1700606133224</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1700606133224</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
